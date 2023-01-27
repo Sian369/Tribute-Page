@@ -14,8 +14,13 @@ main {
   border-radius: 5px;
 }
 
-h1, figure {
+h1, .caption, figure {
   font-family: copperplate, fantasy;
+}
+
+.caption {
+  margin-top: 0px;
+
 }
 
 h1 {
@@ -24,6 +29,7 @@ h1 {
   margin: 0px;
   padding-top: 20px;
 }
+
 
 p {
   font-family: monaco, monospace;
@@ -46,4 +52,5 @@ figcaption {
   text-align: center;
   margin-top: 10px;
   background-color: #b3e7ff;
+  font-size: 12px;
 }
