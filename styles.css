@@ -1,0 +1,49 @@
+body {
+  margin: 10px;
+}
+
+main {
+  background-color: #e6f7ff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#page-top {
+  background-color: #b3e7ff;
+  padding: 0;
+  border-radius: 5px;
+}
+
+h1, figure {
+  font-family: copperplate, fantasy;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  margin: 0px;
+  padding-top: 20px;
+}
+
+p {
+  font-family: monaco, monospace;
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+#img-div {
+  padding-bottom: 25px ;
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 10px;
+  background-color: #b3e7ff;
+}
